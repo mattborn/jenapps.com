@@ -16,7 +16,7 @@
 const scrollConfig = {
   cleanup: true,
   distance: '20%',
-  interval: 100,
+  interval: 50,
   origin: 'bottom',
 }
-ScrollReveal().reveal('h1, h2, h3, p, a, button, img, video', scrollConfig)
+// ScrollReveal().reveal('h1, h2, h3, p, a, button, img, video', scrollConfig)

@@ -2,7 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
-  margin: 0 0 1.5rem;
 }
 #filter-nav a {
   color: var(--color-half);
@@ -24,9 +23,40 @@
 }
 
 .year-header {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.year-text {
   font-size: 1.5rem;
   font-weight: 700;
-  margin: 1.5rem 0 0.75rem;
+}
+
+.segmented-control {
+  background: var(--color-lighter);
+  border-radius: 2rem;
+  display: flex;
+  padding: 0.25rem;
+}
+
+.segment {
+  border-radius: 2rem;
+  color: var(--color-half);
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  transition: all 0.2s;
+}
+
+.segment:hover {
+  color: var(--color-darkest);
+}
+
+.segment.active {
+  background: var(--color-lightest);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  color: var(--color-darkest);
 }
 
 .company {
@@ -38,7 +68,9 @@
 }
 .title {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
+  row-gap: 0.5rem;
   text-wrap: balance;
 }
 .title a {
@@ -62,4 +94,57 @@
 }
 .press:hover::after {
   content: ' ↗';
+}
+
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.video-card {
+  display: flex;
+  flex: 1 1 20rem;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.video-card.watched {
+  opacity: 0.3;
+}
+
+.video-card.watched:hover {
+  opacity: 1;
+}
+
+.video-meta {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
+
+.aka {
+  color: var(--color-half);
+}
+
+.watch-icon {
+  color: var(--color-half);
+  margin-left: auto;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.video-card:hover .watch-icon {
+  opacity: 1;
+}
+
+.video-card iframe,
+.video-card video {
+  background: var(--color-lighter);
+  border-radius: 0.5rem;
+  height: 16rem;
+  object-fit: cover;
+  overflow: hidden;
+  width: 100%;
 }
