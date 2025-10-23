@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
-/* Layout */
-.layer {
-  display: flex;
-  justify-content: center;
-  padding: clamp(1.5rem, 3vw, 2rem);
+:root {
+  --space-clamp: clamp(1.5rem, 3vw, 2rem);
 }
 
+/* Layout */
 .layer-inset {
-  flex: 1;
   max-width: 80rem;
 }
 
@@ -28,8 +25,7 @@
 }
 
 section .layer-inset {
-  display: flex;
-  flex-direction: column;
+  align-items: stretch;
   gap: 0.5rem;
 }
 

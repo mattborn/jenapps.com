@@ -1,20 +1,73 @@
 date,category,company,titles,links,video,comments
-2025-10-21,Browser,OpenAI,ChatGPT Atlas,https://chatgpt.com/atlas;https://openai.com/index/introducing-chatgpt-atlas/
+2025-11-18,Code,Google,Antigravity,https://antigravity.google;https://blog.google/technology/developers/gemini-3-developers/,https://youtu.be/SVCBA-pBgt0
+2025-11-12,Text,OpenAI,GPT-5.1,https://openai.com/index/gpt-5-1/
+2025-10-29,Code,Anysphere,Cursor 2.0,https://cursor.com/blog/2-0,https://youtu.be/An8IM-kPyms
+2025-10-29,Agent,Superhuman,Superhuman Go,https://superhuman.com/products/go-ai-assistant;https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch,https://youtu.be/PUAzU57wt88,
+2025-10-23,Text,Microsoft,Mico,https://copilot.microsoft.com/labs;https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/10/23/human-centered-ai/,https://youtu.be/YDk96R_68aA,Clippy is back!
+2025-10-21,Browser,OpenAI,ChatGPT Atlas,https://chatgpt.com/atlas;https://openai.com/index/introducing-chatgpt-atlas/,https://www.youtube.com/live/8UWKxJbjriY,
+2025-10-20,Code,Anthropic,Claude Code on the web,https://www.anthropic.com/news/claude-code-on-the-web,https://youtu.be/s-avRazvmLg
 2025-10-17,Voice,OpenAI,GPT-4o Transcribe Diarize,https://platform.openai.com/docs/models/gpt-4o-transcribe-diarize
-2025-10-14,Browser,Dendrite,Strawberry,https://strawberrybrowser.com;https://www.producthunt.com/products/strawberry/launches/strawberry-3
-2025-10-07,Computer,Google,Gemini 2.5 Computer Use,https://blog.google/technology/google-deepmind/gemini-computer-use-model/
-2025-10-06,Agent,OpenAI,AgentKit,https://openai.com/agent-platform/
-2025-10-06,Code,OpenAI,Codex,https://openai.com/codex/;https://openai.com/index/codex-now-generally-available/
-2025-10-02,Browser,Perplexity,Comet,https://www.perplexity.ai/comet;https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide
-2025-09-30,Video,OpenAI,Sora 2,https://openai.com/sora/;https://openai.com/index/sora-2/
-2025-09-29,Code,Anthropic,Claude Code 2.0,https://www.claude.com/product/claude-code;https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously
+2025-10-14,Browser,Dendrite,Strawberry,https://strawberrybrowser.com;https://www.producthunt.com/products/strawberry/launches/strawberry-3,https://youtu.be/TUd4qSKCkNU
+2025-10-07,Computer,Google,Gemini 2.5 Computer Use,https://blog.google/technology/google-deepmind/gemini-computer-use-model/,https://youtu.be/BWX8cnMTq7E
+2025-10-06,Agent,OpenAI,AgentKit,https://openai.com/agent-platform/,https://youtu.be/DwGNK1DUFsM
+2025-10-06,Code,OpenAI,Codex,https://openai.com/codex/;https://openai.com/index/codex-now-generally-available/,https://youtu.be/sd21Igx4HtA
+2025-10-02,Browser,Perplexity,Comet,https://www.perplexity.ai/comet;https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide,https://youtu.be/YeldJ4UezDQ
+2025-09-30,Video,OpenAI,Sora 2,https://openai.com/sora/;https://openai.com/index/sora-2/,https://youtu.be/1PaoWKvcJP0
+2025-09-29,Agent,Anthropic,Claude Agent SDK,https://claude.com/solutions/agents;https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk,https://youtu.be/OZ-aLrJ0oVg
+2025-09-29,Code,Anthropic,Claude Code 2.0,https://www.claude.com/product/claude-code;https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously,https://youtu.be/Yct0MvNtdfU
+2025-09-29,Code,Anthropic,Claude Imagine,https://claude.ai/imagine/;https://www.anthropic.com/news/claude-sonnet-4-5,https://youtu.be/dGiqrsv530Y
 2025-09-29,Text,Anthropic,Claude Sonnet 4.5,https://www.anthropic.com/claude/sonnet;https://www.anthropic.com/news/claude-sonnet-4-5
-2025-09-29,Code,Anomaly,OpenCode zen,https://opencode.ai/zen;https://www.producthunt.com/products/opencode/launches/opencode-zen
-2025-08-17,Image,Google,Gemini 2.5 Flash Image;Nano Banana,https://aistudio.google.com/models/gemini-2-5-flash-image;https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
-2025-08-07,Text,OpenAI,GPT-5,https://openai.com/gpt-5/;https://openai.com/index/introducing-gpt-5/,,
+2025-09-29,Code,Anomaly,OpenCode zen,https://opencode.ai/zen;https://www.producthunt.com/products/opencode/launches/opencode-zen,https://youtu.be/SIhToEaIsjQ
+2025-09-25,Text,OpenAI,ChatGPT Pulse,https://openai.com/index/introducing-chatgpt-pulse/,https://youtu.be/nk6IjAnCCqw
+2025-09-25,Music,Suno,Suno v5,https://suno.com;https://help.suno.com/en/articles/8105153,https://youtu.be/lYaRuzzVRMc,
+2025-09-25,Music,Suno,Suno Studio,https://suno.com/blog/suno-studio,https://youtu.be/1lmRm6XUisY,
+2025-09-11,Music,Udio,Udio Voices,https://www.udio.com;https://help.udio.com/en/articles/12055317-voices,https://youtu.be/BDr995Rlk8k
+2025-08-18,Code,Google,Opal,https://opal.google,https://youtu.be/E0hrcDO3Noc
+2025-08-17,Image,Google,Nano Banana;Gemini 2.5 Flash Image,https://aistudio.google.com/models/gemini-2-5-flash-image;https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/,https://youtu.be/UTdfxFyOQTI
+2025-08-07,Text,OpenAI,GPT-5,https://openai.com/gpt-5/;https://openai.com/index/introducing-gpt-5/,https://youtu.be/boJG84Jcf-4,
+2025-07-28,Browser,Microsoft,Copilot in Edge,https://aka.ms/copilot-mode;https://blogs.windows.com/msedgedev/2025/10/23/meet-copilot-mode-in-edge-your-ai-browser/,https://youtu.be/CLH8gU--YBU,
+2025-07-25,Video,Runway,Runway Aleph,https://runwayml.com/research/introducing-runway-aleph,https://youtu.be/KUHx-2uz_qI
+2025-07-17,Agent,OpenAI,ChatGPT Agent,https://chatgpt.com/features/agent/;https://openai.com/index/introducing-chatgpt-agent/,https://youtu.be/2wzGS_WUZYQ,
+2025-07-15,Video,Runway,Runway Act-Two,https://runwayml.com/research/introducing-act-one,https://youtu.be/JW8PHlFD7HM
 2025-07-11,Code,Anomaly,OpenCode,https://opencode.ai;https://www.producthunt.com/products/opencode/launches/opencode
 2025-06-30,Code,Anysphere,Cursor on web and mobile,https://cursor.com/blog/agent-web,https://youtu.be/hHTKtrSO6os,
+2025-06-18,Video,Midjourney,Video v1,https://www.midjourney.com/updates/introducing-our-v1-video-model;https://updates.midjourney.com/introducing-our-v1-video-model/,https://youtu.be/E9PvSeIO5NY
+2025-06-17,Image,Midjourney,Midjourney v7,https://updates.midjourney.com/v7-is-now-the-default-model/,https://youtu.be/79U_ON0fCdc
 2025-05-22,Text,Anthropic,Claude 4,https://www.anthropic.com/news/claude-4
-2025-05-20,Video,Google,Veo 3,https://aistudio.google.com/models/veo-3
-2025-03-25,Text,Google,Gemini 2.5,https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
-2025-02-24,Code,Anthropic,Claude Code,https://www.anthropic.com/news/claude-3-7-sonnet
+2025-05-20,Video,Google,Flow,https://flow.google;https://blog.google/technology/ai/google-flow-veo-ai-filmmaking-tool/,https://youtu.be/A0VttaLy4sU
+2025-05-20,Video,Google,Veo 3,https://aistudio.google.com/models/veo-3,https://youtu.be/3NxT1kxL1nY
+2025-04-22,Browser,Dendrite,Strawberry Browser,https://strawberrybrowser.com;https://www.producthunt.com/products/strawberry/launches/strawberry-2,https://youtu.be/a6_W9gcNWUQ,
+2025-04-16,Code,OpenAI,Codex,https://openai.com/codex/;https://github.com/openai/codex,https://youtu.be/FUq9qRwrDrI
+2025-04-01,Music,Suno,Suno v4.5,https://suno.com;https://suno.com/blog/introducing-v4-5
+2025-03-31,Video,Runway,Runway Gen-4,https://runwayml.com;https://runwayml.com/research/introducing-runway-gen-4,https://youtu.be/br9b3-cxTPQ
+2025-03-25,Text,Google,Gemini 2.5,https://aistudio.google.com;https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/,https://youtu.be/qNrQdZF1pLU
+2025-02-27,Text,Microsoft,Copilot for Mac,https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/get-copilot;https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download,https://youtu.be/lvVaezI0KQo
+2025-02-24,Code,Anthropic,Claude Code,https://www.anthropic.com/news/claude-3-7-sonnet,https://youtu.be/AJpK3YTTKZ4,
+2024-12-11,Text,Google,Gemini 2,https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/
+2024-11-19,Music,Suno,Suno v4,https://suno.com;https://suno.com/blog/v4
+2024-10-22,Computer,Anthropic,Claude Computer Use,https://www.anthropic.com/news/3-5-models-and-computer-use,https://youtu.be/ODaHJzOyVCQ
+2024-10-22,Video,Runway,Runway Act-One,https://runwayml.com/research/introducing-act-one,https://youtu.be/z3F0ei62Kmk
+2024-09-16,Video,Runway,Runway API,https://runwayml.com/news/introducing-the-runway-api
+2024-07-30,Image,Midjourney,Midjourney v6.1,https://updates.midjourney.com/version-6-1/
+2024-07-23,Music,Udio,Udio v1.5,https://www.udio.com;https://www.udio.com/blog/introducing-v1-5,https://youtu.be/-pcUUENVxW8
+2024-07-01,Music,Suno,Suno for iOS,https://suno.com/blog/suno-for-mobile,https://youtu.be/ghwEgqDvvaI
+2024-06-17,Video,Runway,Runway Gen-3,https://runwayml.com/research/introducing-gen-3-alpha,https://youtu.be/nByslCkykj8
+2024-05-26,Music,Suno,Suno v3.5,https://help.suno.com/en/articles/5782721
+2024-03-04,Text,Anthropic,Claude 3,https://www.anthropic.com/news/claude-3-family
+2024-02-15,Text,Google,Gemini 1.5,https://ai.google;https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/,https://youtu.be/Bqn3SNyjsSE
+2023-12-20,Image,Midjourney,Midjourney v6,https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version#h_01JDMQ7QGARVMQNTJYK6GP6DFQ
+2023-12-06,Text,Google,Gemini,https://gemini.google.com;https://blog.google/technology/ai/google-gemini-ai/
+2023-11-28,Video,Pika,Pika 1.0,https://pika.art;https://x.com/pika_labs/status/1729510078959497562,https://youtu.be/6b10jGNNbXQ
+2023-11-21,Text,Anthropic,Claude 2.1,https://www.anthropic.com/news/claude-2-1
+2023-10-19,Image,OpenAI,Dall-E 3,https://openai.com/index/dall-e-3/;https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise/,https://youtu.be/sqQrN0iZBs0
+2023-09-21,Text,Microsoft,Copilot,https://copilot.microsoft.com;https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/,https://youtu.be/ZtXZV41zQZA,
+2023-07-12,Code,Google,NotebookLM,https://notebooklm.google;https://blog.google/technology/ai/notebooklm-google-ai/
+2023-07-11,Text,Anthropic,Claude 2,https://www.anthropic.com/news/claude-2
+2023-03-20,Video,Runway,Runway Gen-2,https://runwayml.com/research/gen-2,https://youtu.be/trXPfpV5iRQ
+2023-05-10,Text,Google,PaLM 2,https://blog.google/technology/ai/google-palm-2-ai-large-language-model/
+2023-04-12,Text,Databricks,Dolly 2.0,https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm,the first open source LLM
+2023-03-24,Text,Databricks,Dolly,https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+2023-03-13,Text,OpenAI,GPT-4,https://openai.com/index/gpt-4/,,
+2023-02-06,Video,Runway,Runway Gen-1,https://runwayml.com/research/gen-1,https://youtu.be/fTqgWkHiN0k
+2023-02-06,Text,Google,Bard,https://blog.google/technology/ai/bard-google-ai-search-updates/,https://youtu.be/63NfEkYCLz0
+2022-11-30,Text,OpenAI,ChatGPT,https://chatgpt.com;https://openai.com/index/chatgpt/,,

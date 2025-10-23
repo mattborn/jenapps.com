@@ -1,5 +1,5 @@
 //clarity.microsoft.com
-/*;(function (c, l, a, r, i, t, y) {
+;(function (c, l, a, r, i, t, y) {
   c[a] =
     c[a] ||
     function () {
@@ -10,13 +10,12 @@
   t.src = 'https://www.clarity.ms/tag/' + i
   y = l.getElementsByTagName(r)[0]
   y.parentNode.insertBefore(t, y)
-})(window, document, 'clarity', 'script', 'NEW_CLARITY_CODE_HERE')*/
+})(window, document, 'clarity', 'script', 'tygmid91u1')
 
 // ScrollReveal animations
 const scrollConfig = {
   cleanup: true,
   distance: '20%',
-  interval: 100,
+  interval: 50,
   origin: 'bottom',
 }
-ScrollReveal().reveal('h1, h2, h3, p, a, button, img, video', scrollConfig)

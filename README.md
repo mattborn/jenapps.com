@@ -1,62 +1,35 @@
-# nothing-static
+# Jen Apps
 
-A minimal static site build system with clean URLs and template support.
+> _Original README from September 20, 2024 at 1:11pm_
 
-## Features
+Daily AI inspiration.
 
-- **Template system**: All HTML files use `layout.html` with `{template}` replacements
-- **Clean URLs**: `page.html` → `index.html`, `colophon.html` → `colophon/index.html`
-- **Next.js-style routing**: `app/page.html` → `app/index.html`
-- **Global assets**: `global.css` and `global.js` on every page
-- **Page-specific assets**: Auto-detect and inject `pagename.css` and `pagename.js`
-- **Base path switching**: Different base paths for dev (`/`) vs production (`/nothing-static/`)
-- **Watch mode**: Auto-rebuild on file changes
+All the jen apps.
 
-## Usage
+Modes = Explain Like I'm 5 | Gen Z | Technical Jargon
 
-```bash
-npm run build              # Build for production
-npm run dev                # Build for dev with watch mode
-npm run watch              # Build for production with watch mode
-node build.js              # Build for production
-node build.js --dev        # Build for development
-node build.js --watch      # Build with watch mode
-```
+## Past
 
-## File Structure
+Everything that happened leading up to ChatGPT.
 
-```
-src/
-  layout.html           # Template with {base}, {title}, {content}, {styles}, {scripts}
-  page.html             # Home page → build/index.html
-  colophon.html         # → build/colophon/index.html
-  app/
-    page.html           # → build/app/index.html
-  global.css            # Included on every page
-  global.js             # Included on every page
-  app.css               # Auto-included on app page
-  app.js                # Auto-included on app page
-```
+Jan 2013 - [Word2vec published](https://arxiv.org/abs/1301.3781)
 
-## Template Variables
+Dec 2015 - OpenAI founded
 
-- `{base}` - Base path (dev: `/`, prod: `/nothing-static/`)
-- `{title}` - Auto-generated from filename
-- `{content}` - Page content
-- `{styles}` - Auto-injected page-specific styles
-- `{scripts}` - Auto-injected page-specific scripts
+Jun 2018 - GPT-1
 
-## Build Output
+Feb 2019 - GPT-2
 
-- `page.html` becomes `index.html`
-- `name.html` becomes `name/index.html`
-- `app/page.html` becomes `app/index.html`
-- All non-HTML files copied as-is
+Jun 2020 - GPT-3
 
-## TODO
+GPT-3.5
 
-### minterface.css
-- [ ] Rework heading line-heights
-- [ ] Add app vs marketing heading sizes
-- [ ] Standardize button styles
-- [ ] Consolidate border-radius values (0.5rem, 0.375rem, 50%) into CSS variable
+gpt-3.5-turbo
+
+## Present
+
+By present, we mean "in the ChatGPT era" from November 30, 2022 to present day.
+
+## Future
+
+Mid 2024
